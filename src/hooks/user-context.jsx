@@ -1,7 +1,7 @@
 import { createContext, useContext, useState } from 'react';
 
 const SampleUser = {
-  userInfo: { userid: 'YoungHoon', userpwd: '123456789a' },
+  userInfo: { userid: 'Younghoon', userpwd: '123456789a' },
 };
 
 const UserContext = createContext();
